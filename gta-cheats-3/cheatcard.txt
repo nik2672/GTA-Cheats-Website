@@ -1,0 +1,10 @@
+<!-- New Cheat -->
+<div class="cheat-card">
+  <h2 class="cheat-title">Cheat Title</h2>
+  <p class="cheat-description">Cheat description goes here.</p>
+  <div class="cheat-buttons">
+    <!-- Button Images -->
+    <img src="assets/buttons/button1.png" alt="Button 1">
+    <!-- Add up to 12 button images -->
+  </div>
+</div>

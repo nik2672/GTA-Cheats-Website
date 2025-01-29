@@ -1,0 +1,189 @@
+      <div class="cheat-card">
+        <h3 class="cheat-title">Invincibility</h3>
+        <p class="cheat-description">Become invincible for 5 minutes.</p>
+        <p class="cheat-phone">1-999-724-654-5537 (<strong>PAINKILLER</strong>)</p>
+      </div>
+
+      <!-- Max Health and Armor Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Max Health and Armor</h3>
+        <p class="cheat-description">Restore your health and armor to full.</p>
+        <p class="cheat-phone">1-999-887-853 (<strong>TURTLE</strong>)</p>
+      </div>
+
+      <!-- Give Weapons Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Give Weapons</h3>
+        <p class="cheat-description">Get all weapons and ammo.</p>
+        <p class="cheat-phone">1-999-8665-87 (<strong>TOOLUP</strong>)</p>
+      </div>
+
+      <!-- Recharge Ability Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Recharge Special Ability</h3>
+        <p class="cheat-description">Instantly recharge your character's special ability.</p>
+        <p class="cheat-phone">1-999-769-3787 (<strong>POWERUP</strong>)</p>
+      </div>
+
+      <!-- Fast Run Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Fast Run</h3>
+        <p class="cheat-description">Run faster.</p>
+        <p class="cheat-phone">1-999-2288-463 (<strong>CATCHME</strong>)</p>
+      </div>
+
+      <!-- Fast Swim Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Fast Swim</h3>
+        <p class="cheat-description">Swim faster.</p>
+        <p class="cheat-phone">1-999-4684-4557 (<strong>GOTGILLS</strong>)</p>
+      </div>
+
+      <!-- Super Jump Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Super Jump</h3>
+        <p class="cheat-description">Jump super high.</p>
+        <p class="cheat-phone">1-999-467-86-48 (<strong>HOPTOIT</strong>)</p>
+      </div>
+
+      <!-- Flaming Bullets Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Flaming Bullets</h3>
+        <p class="cheat-description">Set targets on fire with bullets.</p>
+        <p class="cheat-phone">1-999-462-363-4279 (<strong>INCENDIARY</strong>)</p>
+      </div>
+
+      <!-- Explosive Bullets Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Explosive Bullets</h3>
+        <p class="cheat-description">Make bullets explode on impact.</p>
+        <p class="cheat-phone">1-999-444-439 (<strong>HIGHEX</strong>)</p>
+      </div>
+
+      <!-- Explosive Melee Attacks Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Explosive Melee Attacks</h3>
+        <p class="cheat-description">Explosive melee hits.</p>
+        <p class="cheat-phone">1-999-4684-2637 (<strong>HOTHANDS</strong>)</p>
+      </div>
+
+      <!-- Skyfall Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Skyfall</h3>
+        <p class="cheat-description">Teleport into mid-air and freefall.</p>
+        <p class="cheat-phone">1-999-759-3255 (<strong>SKYFALL</strong>)</p>
+      </div>
+
+      <!-- Drunk Mode Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Drunk Mode</h3>
+        <p class="cheat-description">Make your character drunk.</p>
+        <p class="cheat-phone">1-999-547-861 (<strong>LIQUOR</strong>)</p>
+      </div>
+
+      <!-- Slow Motion Aiming Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Slow Motion Aiming</h3>
+        <p class="cheat-description">Slow down aiming (enter 3x for full effect).</p>
+        <p class="cheat-phone">1-999-332-3393 (<strong>DEADEYE</strong>)</p>
+      </div>
+
+      <!-- Lower Wanted Level Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Lower Wanted Level</h3>
+        <p class="cheat-description">Decrease your wanted level.</p>
+        <p class="cheat-phone">1-999-5299-3787 (<strong>LAWYERUP</strong>)</p>
+      </div>
+
+      <!-- Raise Wanted Level Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Raise Wanted Level</h3>
+        <p class="cheat-description">Increase your wanted level.</p>
+        <p class="cheat-phone">1-999-3844-8483 (<strong>FUGITIVE</strong>)</p>
+      </div>
+    </div>
+
+    <!-- Vehicle Cheats Section -->
+    <h2 class="cheat-section-title">Vehicle Cheats</h2>
+    <div class="cheats-container">
+      <!-- Spawn Buzzard Helicopter Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn Buzzard Helicopter</h3>
+        <p class="cheat-description">Spawn a small attack helicopter.</p>
+        <p class="cheat-phone">1-999-289-9633 (<strong>BUZZOFF</strong>)</p>
+      </div>
+
+      <!-- Spawn Comet Sports Car Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn Comet Sports Car</h3>
+        <p class="cheat-description">Spawn a Comet sports car.</p>
+        <p class="cheat-phone">1-999-266-38 (<strong>COMET</strong>)</p>
+      </div>
+
+      <!-- Spawn Rapid GT Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn Rapid GT</h3>
+        <p class="cheat-description">Spawn a Rapid GT sports car.</p>
+        <p class="cheat-phone">1-999-727-4348 (<strong>RAPIDGT</strong>)</p>
+      </div>
+
+      <!-- Spawn BMX Bike Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn BMX Bike</h3>
+        <p class="cheat-description">Spawn a BMX bicycle.</p>
+        <p class="cheat-phone">1-999-226-348 (<strong>BANDIT</strong>)</p>
+      </div>
+
+      <!-- Spawn Sanchez Bike Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn Sanchez Bike</h3>
+        <p class="cheat-description">Spawn a Sanchez dirt bike.</p>
+        <p class="cheat-phone">1-999-633-7623 (<strong>OFFROAD</strong>)</p>
+      </div>
+
+      <!-- Spawn Trashmaster Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn Trashmaster</h3>
+        <p class="cheat-description">Spawn a Trashmaster garbage truck.</p>
+        <p class="cheat-phone">1-999-872-433 (<strong>TRASHED</strong>)</p>
+      </div>
+
+      <!-- Spawn Dodo Airplane Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Spawn Dodo Airplane</h3>
+        <p class="cheat-description">Spawn the Dodo seaplane.</p>
+        <p class="cheat-phone">1-999-398-4628 (<strong>EXTINCT</strong>)</p>
+      </div>
+    </div>
+
+    <!-- World Cheats Section -->
+    <h2 class="cheat-section-title">World Cheats</h2>
+    <div class="cheats-container">
+      <!-- Change Weather Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Change Weather</h3>
+        <p class="cheat-description">Cycle through different weather states.</p>
+        <p class="cheat-phone">1-999-625-348-7246 (<strong>MAKEITRAIN</strong>)</p>
+      </div>
+
+      <!-- Slow Motion Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Slow Motion</h3>
+        <p class="cheat-description">Enter slow motion mode.</p>
+        <p class="cheat-phone">1-999-756-966 (<strong>SLOWMO</strong>)</p>
+      </div>
+
+      <!-- Moon Gravity Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Moon Gravity</h3>
+        <p class="cheat-description">Experience low gravity.</p>
+        <p class="cheat-phone">1-999-356-2837 (<strong>FLOATER</strong>)</p>
+      </div>
+      
+      <!-- Slidey Cars Cheat -->
+      <div class="cheat-card">
+        <h3 class="cheat-title">Slidey Cars</h3>
+        <p class="cheat-description">Make car handling slippery.</p>
+        <p class="cheat-phone">1-999-766-9329 (<strong>SNOWDAY</strong>)</p>
+      </div>
+    </div>
