@@ -1,2 +1,5 @@
 # GTA-Cheats-Website
-Created a website using javascirpt, html and css 
+Website was initially published publically through gtacheatspro.com, using javascirpt, html and css.
+
+Website Links: 
+Netlify: https://clever-bublanina-47f36c.netlify.app/
