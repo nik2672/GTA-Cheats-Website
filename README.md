@@ -1,6 +1,6 @@
 # GTA-Cheats-Website
 Website was initially published publically through owned domain and improved usign SEO: [gtacheatspro.com]
-Build using javascript, css and html
+Build using javascript, CSS, HTML and Figma 
 
 Website Links: 
 Netlify: https://clever-bublanina-47f36c.netlify.app/
